@@ -1,0 +1,348 @@
+#logo{
+    position: relative;
+    top: 30px;
+    left: 50px;
+}
+
+/* 메인상단바 */
+#user1{
+    border: 0;
+    background-color: transparent;
+    position: relative;
+    top: 10px;
+    left: 900px;
+    width: 35px;
+    height: 35px;
+}
+#user2{
+    border: 0;
+    background-color: transparent;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top:5px;
+    left: 950px;
+    color: #575757;
+    font-family: "Pretendard";
+    font-size: 18.12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+#user3{
+    border: 0;
+    background-color: transparent;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: 5px;
+    left: 1050px;
+    color: #575757;
+    font-family: "Pretendard";
+    font-size: 18.12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+#user4{
+    border: 0;
+    background-color: transparent;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: 5px;
+    left: 1150px;
+    color: #575757;
+    font-family: "Pretendard";
+    font-size: 18.12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+#user5{
+    border: 0;
+    background-color: transparent;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    top: 5px;
+    left: 1250px;
+    color: #575757;
+    font-family: "Pretendard";
+    font-size: 18.12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+#user6{
+    border: 0;
+    background-color: transparent;
+    width: 35px;
+    height: 35px;
+    position: relative;
+    top: 10px;
+    left: 1350px;
+}
+
+#hi{
+    color: #575757; 
+    font-family: "Pretendard"; 
+    font-size: 50px;
+    position: relative;
+    left: 380px;
+}
+
+#inf_change{
+    border: 0;
+    background-color: transparent;
+    position: relative;
+    left: 380px;
+    bottom: 250px;
+}
+
+#profile{
+    width: 300px;
+    position: relative;
+    left: 850px;
+    bottom: 200px;
+}
+
+#profile_btn1{
+    position: relative;
+    right: 250px;
+    top: 150px;
+}
+
+#profile_btn2{
+    position: relative;
+    left: 400px;
+    top: 180px;
+}
+
+#profileimg{
+    position: relative;
+    left: 830px;
+    bottom:20px;
+}
+
+#mancheck{
+    border: 0;
+    background-color: transparent;
+    position: relative;
+    left: 600px;
+    top: 50px;
+}
+
+#girlcheck{
+    border: 0;
+    background-color: transparent;
+    position: relative;
+    left: 600px;
+    top:50px;
+}
+
+#nickname{
+    position: relative;
+    left: 350px;
+    top:100px;
+}
+
+#changecheck{
+    border: 0;
+    background-color: transparent;
+    position: relative;
+    left: 1350px;
+    top:70px;
+    height: 30px;
+}
+
+#hr1{
+    width : 68%;
+    position: relative;
+    top: 70px;
+    left:20px;
+}
+
+#age{
+    position: relative;
+    left: 350px;
+    top:100px;
+}
+
+#changecheck2{
+    border: 0;
+    background-color: transparent;
+    position: relative;
+    left: 1350px;
+    top:70px;
+    height: 30px;
+}
+
+#hr2{
+    width : 68%;
+    position: relative;
+    top: 70px;
+    left:20px;
+}
+
+#mbti{
+    position: relative;
+    left: 350px;
+    top:100px;
+}
+
+#changecheck3{
+    border: 0;
+    background-color: transparent;
+    position: relative;
+    left: 1350px;
+    top:70px;
+    height: 30px;
+}
+
+#hr3{
+    width : 68%;
+    position: relative;
+    top: 70px;
+    left:20px;
+}
+
+#change_fin{
+    border: 0;
+    background-color: transparent;
+    position: relative;
+    top: 140px;
+    left:650px;
+}
+
+#hr4{
+    width : 50%;
+    position: relative;
+    top: 270px;
+    left:20px;
+    height : 2px;
+    background-color : #a6a6a6;
+    border : 0;
+}
+
+#setting_btn1{
+    border: 0;
+    background-color: transparent;
+    position: relative;
+    top: 350px;
+    left:600px;
+}
+
+#setting_btn2{
+    border: 0;
+    background-color: transparent;
+    position: relative;
+    top: 480px;
+    right:120px;
+}
+
+#setting_btn3{
+    border: 0;
+    background-color: transparent;
+    position: relative;
+    top: 550px;
+    left:600px;
+}
+
+
+#testbackimg{
+    position: absolute;
+    top: 220px;
+    z-index: -1;
+}
+
+#test_dtn1{
+    border: 0;
+    background-color: transparent;
+    position: relative;
+    top: 330px;
+    left:800px;
+}
+
+#test_dtn2{
+    border: 0;
+    background-color: transparent;
+    position: relative;
+    top: 460px;
+    left:462px;
+}
+
+#test_dtn3{
+    border: 0;
+    background-color: transparent;
+    position: relative;
+    top: 590px;
+    left:125px;
+}
+
+#Bell{
+    position: relative;
+    bottom: 130px;
+    left:1700px;
+}
+
+#chattingpart1{
+    border: 0;
+    background-color: transparent;
+    position: relative;
+    bottom: 125px;
+    left:15px;
+}
+
+#chattingpart2{
+    border: 0;
+    background-color: transparent;
+    position: relative;
+    bottom: 125px;
+    left:80px;
+}
+
+#chatting_alarm{
+    position: relative;
+    bottom: 1020px;
+    left:350px;
+}
+
+#chatting_line{
+    position: relative;
+    bottom: 136px;
+    left:60px;
+    z-index: -1;
+}
+
+#chat1{
+    border: 0;
+    background-color: transparent;
+    position: relative;
+    bottom: 1400px;
+    left:125px;
+}
+
+#chat2{
+    position: relative;
+    bottom: 800px;
+    right:80px;
+}
+
+#chat2-1{
+    position: relative;
+    bottom: 850px;
+    right:400px;
+}
+
+#chatting_screen{
+    position: relative;
+    bottom: 900px;
+    right:270px;
+}
+
+#chat3{
+    position: relative;
+    bottom: 900px;
+    left:110px;
+}
